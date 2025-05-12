@@ -1,0 +1,14 @@
+/Users/kotyarya/RiderProjects/JavaJoke/bin/Debug/net9.0/JavaJoke
+/Users/kotyarya/RiderProjects/JavaJoke/bin/Debug/net9.0/JavaJoke.deps.json
+/Users/kotyarya/RiderProjects/JavaJoke/bin/Debug/net9.0/JavaJoke.runtimeconfig.json
+/Users/kotyarya/RiderProjects/JavaJoke/bin/Debug/net9.0/JavaJoke.dll
+/Users/kotyarya/RiderProjects/JavaJoke/bin/Debug/net9.0/JavaJoke.pdb
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.AssemblyInfoInputs.cache
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.AssemblyInfo.cs
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.csproj.CoreCompileInputs.cache
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.dll
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/refint/JavaJoke.dll
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.pdb
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/JavaJoke.genruntimeconfig.cache
+/Users/kotyarya/RiderProjects/JavaJoke/obj/Debug/net9.0/ref/JavaJoke.dll
